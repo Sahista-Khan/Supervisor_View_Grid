@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Supervisor_View_Grid/static/css/main.1f44466e.chunk.css",
+    "main.js": "/Supervisor_View_Grid/static/js/main.59144f63.chunk.js",
+    "main.js.map": "/Supervisor_View_Grid/static/js/main.59144f63.chunk.js.map",
+    "runtime-main.js": "/Supervisor_View_Grid/static/js/runtime-main.1179bf2a.js",
+    "runtime-main.js.map": "/Supervisor_View_Grid/static/js/runtime-main.1179bf2a.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Supervisor_View_Grid/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3dd66b14.chunk.js": "/Supervisor_View_Grid/static/js/2.3dd66b14.chunk.js",
+    "static/js/2.3dd66b14.chunk.js.map": "/Supervisor_View_Grid/static/js/2.3dd66b14.chunk.js.map",
+    "static/js/3.546f38c8.chunk.js": "/Supervisor_View_Grid/static/js/3.546f38c8.chunk.js",
+    "static/js/3.546f38c8.chunk.js.map": "/Supervisor_View_Grid/static/js/3.546f38c8.chunk.js.map",
+    "index.html": "/Supervisor_View_Grid/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Supervisor_View_Grid/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.1f44466e.chunk.css.map": "/Supervisor_View_Grid/static/css/main.1f44466e.chunk.css.map",
+    "static/js/2.3dd66b14.chunk.js.LICENSE.txt": "/Supervisor_View_Grid/static/js/2.3dd66b14.chunk.js.LICENSE.txt",
+    "static/media/setting_icon.1adc5ac3.PNG": "/Supervisor_View_Grid/static/media/setting_icon.1adc5ac3.PNG",
+    "static/media/sorting.b55983e9.PNG": "/Supervisor_View_Grid/static/media/sorting.b55983e9.PNG",
+    "static/media/sortingactive.85cb43dd.PNG": "/Supervisor_View_Grid/static/media/sortingactive.85cb43dd.PNG",
+    "static/media/subtask_icon.d4f42b15.PNG": "/Supervisor_View_Grid/static/media/subtask_icon.d4f42b15.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1179bf2a.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3dd66b14.chunk.js",
+    "static/css/main.1f44466e.chunk.css",
+    "static/js/main.59144f63.chunk.js"
+  ]
+}
