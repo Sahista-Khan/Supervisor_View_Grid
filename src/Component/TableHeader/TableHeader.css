@@ -1,0 +1,36 @@
+
+.thHeader{
+width: 1200px;
+height: 50px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-collapse: separate;
+border-spacing: -27px 4px;
+border-spacing: 42px;
+}
+
+
+.thHeader th {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;  
+    text-transform: uppercase; 
+    color: #666666;
+}
+
+.thHeader> th:nth-child(8){
+    color: #2055B5;
+}
+.thHeader > th>img{
+    width: 14.78px;
+    height: 14.14px;
+    margin-left: 32px;
+    margin-right: 20px;
+}
+.thHeader > th:nth-child(1)>img{
+    width: 24px;
+    height: 19.14px;
+}

@@ -1,0 +1,117 @@
+.tableBG{
+  
+width: 1200px;
+height: 634px;
+background: #ECF5FA;
+margin: auto;
+}
+
+.tableTR{
+    margin: auto;
+    width: 1200px;
+    background: #ECF5FA;
+     border-collapse: separate;
+    border-spacing: 0px 4px; 
+}
+
+
+
+.tableRow{
+    height: 55px;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #F9F9F9;
+    border-radius: 5px;
+}
+
+.taskNameTD{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: #2055B5;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.lobTD>p{
+    
+        width: 106px;
+        height: 20px; 
+        /* background: #684999; */
+        border-radius: 10px;
+        margin: auto;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    .step{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 24px;
+        color: #666666;
+    }
+    .dateTime>p{
+    position: relative;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 15px;
+    width: 200px;
+    margin: auto;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #666666;
+    height: 24px;
+}
+
+.dateTime>p>span:nth-child(1) {
+    background: rgba(244, 175, 100, 0.5);
+    border: 1px solid #E5E5E5;;
+    box-sizing: border-box;
+    border-radius: 15px;
+    width: 89%;
+    height: 100%;
+}
+.dateTime>p>span:nth-child(2) {
+    position: absolute;
+    left: 21%;
+}
+
+.selectDropdown{
+    bottom: 0%;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 30px;
+    width: 196px;
+    height: 36px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #666666;
+}
+.subTask{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+color: #333333;
+}
+
+    

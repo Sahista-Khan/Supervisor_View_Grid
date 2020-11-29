@@ -1,0 +1,81 @@
+.paging{
+    width: 1200px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #666666;
+}
+.pagination{
+
+    margin-top: 14px
+}
+
+
+.clearFilters{
+    width: 157px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.clearFilters span:first-child  {
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    text-align: revert;
+    line-height: 1;
+    color: #80808091;
+    margin-right: 5px;
+}
+.itemPerPage >select{
+    width: 60px;
+    height: 28px;
+    left: 569px;
+    top: 59px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+
+.goToPage >input {
+width: 40px;
+height: 30px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 5px;
+text-align: center;
+margin: 0px 5px;
+}
+
+.paging >span{font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 12px;
+    line-height: 14px;
+    color: #2055B5;
+    text-decoration: dashed;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+
+
+

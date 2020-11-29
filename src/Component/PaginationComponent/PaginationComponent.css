@@ -1,0 +1,23 @@
+.page-item{
+    margin-left: 3px;
+}
+.page-link{
+    width: 28px;
+    height: 28px;
+    color: #666666 !important;
+    line-height: 1 !important;
+    margin-left: 0px;
+    border: 1px solid #E5E5E5 !important;
+    
+}
+.page-item.active .page-link {
+    color: white !important;
+    background: #2055B5 !important;
+    
+
+}
+
+.page-item:last-child .page-link,
+.page-item:first-child .page-link{
+    background: #E5E5E5!important;
+}
